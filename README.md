@@ -1,5 +1,5 @@
 # elm-environments
-This is an experiment on how handle different envieonments (e.g. development/staging/production) in Elm. 
+This is an experiment on how handle different environments (e.g. development/staging/production) in Elm. 
 It creates files with different values for each environment and switch between them at run time.
 
 # running
