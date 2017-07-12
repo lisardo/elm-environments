@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "lisardo",
   "scripts": {
-    "clean-env": "rm elm-stuff/build-artifacts/0.18.0/user/project/1.0.0/Environment.*;",
+    "clean-env": "rm elm-stuff/build-artifacts/0.18.0/lisardo/elm-environments/1.0.0/Environment.*;",
     "dev": "npm run clean-env; elm-live src/Main.elm config/dev/Environment.elm",
     "prod": "npm run clean-env; elm-live src/Main.elm config/prod/Environment.elm",
     "staging": "npm run clean-env; elm-live src/Main.elm config/staging/Environment.elm"
